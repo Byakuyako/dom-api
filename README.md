@@ -1,5 +1,12 @@
 # 封装 DOM 库
 
+## 代码使用方法
+
+```
+yarn global add parcel 或者 npm i -g parcel
+parcel src/index.html
+```
+
 ## 基本操作
 
 涵盖了 DOM 原生接口的常用功能
